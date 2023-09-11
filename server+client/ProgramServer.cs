@@ -41,6 +41,7 @@ namespace server_client
             //    listener.Close(); //закрыл соединение(listener)
             #endregion
 
+            #region UDP
             const string ip = "127.0.0.1"; //выбрал айпи, чтобы реализовывалось на одном компе
             const int port = 8081;
 
@@ -67,7 +68,7 @@ namespace server_client
 
                 Console.WriteLine(data);
             }
-
+            #endregion
 
         }
     }

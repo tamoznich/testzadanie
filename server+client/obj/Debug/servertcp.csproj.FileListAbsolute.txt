@@ -1,0 +1,7 @@
+D:\visual studio решения и проекты\server+client\bin\Debug\server+client.exe.config
+D:\visual studio решения и проекты\server+client\bin\Debug\server+client.exe
+D:\visual studio решения и проекты\server+client\bin\Debug\server+client.pdb
+D:\visual studio решения и проекты\server+client\obj\Debug\servertcp.csproj.SuggestedBindingRedirects.cache
+D:\visual studio решения и проекты\server+client\obj\Debug\servertcp.csproj.CoreCompileInputs.cache
+D:\visual studio решения и проекты\server+client\obj\Debug\server+client.exe
+D:\visual studio решения и проекты\server+client\obj\Debug\server+client.pdb
